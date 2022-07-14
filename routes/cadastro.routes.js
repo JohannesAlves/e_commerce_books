@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-const express = require('express')
-const router = express.Router();
-const cadastro = require('../controllers/cadastroController')
-
-router.get('/criar', cadastro.registro)
-router.post("/criar", cadastro.criarRegistro)
-router.get('/cadastroFeito', cadastro.guardarRegistro)
-=======
 const express = require('express');
 const { validationResult } = require('express-validator');
 
@@ -40,6 +31,5 @@ router.post('/criar', validacoes , (req, res, next) => {
     
     next()
 })
->>>>>>> sprint-5
 
 module.exports = router;

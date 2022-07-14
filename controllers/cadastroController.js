@@ -1,26 +1,14 @@
-<<<<<<< HEAD
-=======
 const User = require('../database/User');
 const bcrypt = require('bcrypt');
 
 
 
 
->>>>>>> sprint-5
 const cadastro = {
     registro: (req, res) => {
         res.render('cadastro')
     },
     criarRegistro:(req, res)=>{
-<<<<<<< HEAD
-        console.log(req.body);
-        res.redirect('/cadastro/cadastroFeito')
-    },
-    guardarRegistro:(req,res)=>{
-        res.render('cadastroFeito')
-        
-    }
-=======
             let userToCreate = {
                 nome: req.body.nome,
                 sobrenome: req.body.sobrenome,
@@ -36,7 +24,6 @@ const cadastro = {
             res.redirect('/user/login')
 
     },
->>>>>>> sprint-5
 
 }
 
