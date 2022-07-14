@@ -21914,3 +21914,83 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:52:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:52:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:52:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:52:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:53:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:53:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:53:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 14/07/2022
+    E na hora: 18:53:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
